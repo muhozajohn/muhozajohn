@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m @muhozajohn
+- 👀 I’m software development enthusiast 
+- 💞️ in love with programming
+- 📫 How to reach me 
+- whatsapp + call" +250785161508"
+- Email:muhozajohn4@gmail.com
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhoza-john-26077824a/) 
+
+<!-- <p align="center">
+    <a href="https://github.com/alaintresor/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="alaintresor's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p> -->
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/muhozajohn/github-readme-stats"><img alt="alaintresor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=muhozajohn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/muhozajohn/github-readme-stats"><img alt="muhozajohn's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhozajohn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+<div align="center">
+	<br>
+	<br>
+	<br>
+<!-- 	<img src="https://raw.githubusercontent.com/knowbee/hosting/master/assets/intore.gif" width="auto" height="100"> -->
+	<br>
+	<br>
+	<br>
+</div>
