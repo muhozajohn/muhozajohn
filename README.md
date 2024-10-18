@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">👋, I'm John Muhoza</h1>
-<h3 align="center">A passionate Full-Stack developer from Rwanda</h3>
+<h3 align="center">I'm a Full-Stack Engineer and UI/UX Designer from Kigali City, Rwanda. I have a strong sense of ownership and expertise in both frontend and backend technologies. My outstanding communication and teamwork abilities enable me to collaborate effectively with diverse teams. Passionate about continuous learning, I quickly adapt to new technological advancements.
+
+My skills and dedication drive me to create innovative solutions and exceptional user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhozajohn&label=Profile%20views&color=0e75b6&style=flat" alt="muhozajohn" /> </p>
 </a> </p>
