@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as Professional  **Freelancer**
 
-- 🌱 I’m currently using **NextJS, Laravel , Typescript, NodeJs & MERN Stack **
+- 🌱 I’m currently using **NextJS, NestJs , Typescript, NodeJs & MERN Stack **
 
 - 👯 I’m looking to collaborate on any serious **project**
 
