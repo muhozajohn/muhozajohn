@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">👋, I'm John Muhoza</h1>
-<h4 align="left">
-I'm a Full-Stack Engineer and UI/UX Designer from Kigali City, Rwanda. I have a strong sense of ownership and expertise in both frontend and backend technologies. My outstanding communication and teamwork abilities enable me to collaborate effectively with diverse teams. Passionate about continuous learning, I quickly adapt to new technological advancements.
+<h5 align="left">
+As a Full-Stack Engineer, UI/UX, and Mobile App Designer from Kigali City, Rwanda, I have a strong sense of ownership and expertise in frontend, backend, and mobile technologies. My outstanding communication and teamwork abilities enable me to collaborate effectively with diverse teams. Passionate about continuous learning, I quickly adapt to new technological advancements.
 
-My skills and dedication drive me to create innovative solutions and exceptional user experiences.</h4>
+My skills and dedication drive me to create innovative solutions and exceptional user experiences across web and mobile platforms.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhozajohn&label=Profile%20views&color=0e75b6&style=flat" alt="muhozajohn" /> </p>
 </a> </p>
