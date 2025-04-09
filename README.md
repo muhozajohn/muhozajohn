@@ -62,7 +62,7 @@ I combine strong technical skills with excellent communication and collaboration
 ## 🚀 Current Status
 
 - 👨‍💻 Working as a Professional **Freelancer**
-- 🌱 Focusing on **NextJS, NestJS, TypeScript, NodeJS & MERN Stack**
+- 🌱 Currently specializing in modern JavaScript ecosystems including NextJS, NestJS, TypeScript, and NodeJS, with expertise in full-stack development leveraging both SQL and NoSQL database architectures for scalable enterprise solutions.
 - 👯 Open to collaborating on impactful projects
 - 🔍 Seeking opportunities in **Web Development, Mobile Development & Backend Development**
 
