@@ -70,7 +70,7 @@ I combine strong technical skills with excellent communication and collaboration
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhozajohn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhozajohn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhozajohn&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ## 📫 Let's Connect
