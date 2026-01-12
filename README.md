@@ -75,7 +75,6 @@ I combine strong technical skills with excellent communication and collaboration
 
 ## 📫 Let's Connect
 
-- 🌐 **Portfolio:** [muhoza.vercel.app](https://muhoza.vercel.app/)
 - 📧 **Email:** muhozajohn4@gmail.com
 - 📱 **Phone:** +250 785 161 508
 - 💼 **LinkedIn:** [John Muhoza](https://www.linkedin.com/in/muhoza-john-26077824a/)
